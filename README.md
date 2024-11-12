@@ -27,7 +27,7 @@ This project helped develop skills in:
 
 ## 📂 Resources
 - **Interactive Dashboard**: [🔗 View the Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzUzNjVlY2UtY2M4Yi00NmU1LWE2ZmItNWNiYzNmOTRjMmM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- **GitHub Repository**: [🔗 Access the code here](https://github.com/aiprasadk/AtliQ Grands Revenue Insights)
+- **GitHub Repository**: [🔗 Access the code here](https://github.com/aiprasadk/AtliQ-Grands-Revenue-Insights)
 
 ## 🙏 Acknowledgments
 Special thanks to **Dhaval Patel**, **Hemanand Vadivel**, and the **Codebasics** team for their support and mentorship throughout this project.
