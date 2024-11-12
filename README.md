@@ -36,4 +36,4 @@ Special thanks to **Dhaval Patel**, **Hemanand Vadivel**, and the **Codebasics**
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prasad7k) to discuss data analytics, Power BI, and future opportunities!
 
 ## 🏷️ Tags
-`#PowerBI` `#DataAnalytics` `#BusinessIntelligence` `#DataDrivenDecisions`
+`#PowerBI` `#DataAnalytics` `#Hospitality Analysis` `#DataDrivenDecisions`
