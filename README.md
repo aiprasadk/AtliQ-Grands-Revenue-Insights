@@ -1,3 +1,5 @@
+<img width="1280" height="720" alt="AtliQ Grands_thumbnail" src="https://github.com/user-attachments/assets/8cbe8915-7a3b-4bc2-a2fc-c2064d320e6e" />
+
 # 🚀 AtliQ Grands Revenue Insights
 
 ## 📄 Project Overview
